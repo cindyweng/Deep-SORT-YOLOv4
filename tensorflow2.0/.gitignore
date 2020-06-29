@@ -1,2 +1,8 @@
+counts/*
+*.avi
+*.mp4
 *.weights
+*.pyc
 *.h5
+yolo4/__pycache__/*
+tools/__pycache__/*
